@@ -1,0 +1,8 @@
+[00:33:04] === CS2 Lobby Inviter 2.1 ===
+[00:33:04] Tryb: lokalny Steamworks + odczyt publicznego profilu; bez QR, hasła, tokena i drugiego logowania.
+[00:33:04] Aktywne konto Steam: 76561199019881870
+[00:33:04] Odbiorcy na liście: 2
+[00:33:05] Sprawdzam publiczny profil Steam: https://steamcommunity.com/profiles/76561199019881870/
+[00:33:06] Na publicznej stronie profilu nie znaleziono linku joinlobby/730 dla tego konta. Profil może go nie udostępniać lub link mógł wygasnąć.
+[00:33:06] Nie znaleziono żadnego kandydata lobby w argumentach CS2, profilu Steam ani lobby.txt.
+[00:33:06] BŁĄD: Nie udało się potwierdzić lobby. Profil nie udostępnił pasującego linku albo Steamworks nie potwierdził członkostwa. Sprawdź widoczność profilu/linku i spróbuj ponownie. Nie wysłano żadnych zaproszeń.

@@ -1,0 +1,14 @@
+{
+  "name": "cs2-lobby-inviter-local-steamworks",
+  "version": "2.0.0",
+  "private": true,
+  "description": "CS2 lobby inviter using the existing local Steam client session; no QR or Steam password login.",
+  "type": "module",
+  "scripts": {
+    "start": "node invite-lobby.js",
+    "check": "node --check invite-lobby.js"
+  },
+  "dependencies": {
+    "@node-3d/steam-api": "0.4.2"
+  }
+}

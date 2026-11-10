@@ -1,0 +1,4 @@
+# Opcjonalny awaryjny Steam Lobby ID (17-20 cyfr).
+# Program najpierw spróbuje wykryć lobby automatycznie.
+# Jeśli wykrywanie nie zadziała, wpisz tu ID skopiowane z linku lobby.
+109775244139974198
